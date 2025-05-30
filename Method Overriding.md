@@ -32,10 +32,9 @@ for obj in (obj_goldfish, obj_hammerhead):
 ```
 
 ## OUTPUT
-```
-fish
-shark
-```
+
+![image](https://github.com/user-attachments/assets/e17fcfdf-281a-488c-b0d4-819a69cf754c)
+
 
 ## RESULT
 Thus the code is executed successfully.
