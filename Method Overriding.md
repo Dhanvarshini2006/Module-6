@@ -32,10 +32,10 @@ for obj in (obj_goldfish, obj_hammerhead):
 ```
 
 ## OUTPUT
-
+```
 fish
 shark
-
+```
 
 ## RESULT
 Thus the code is executed successfully.
